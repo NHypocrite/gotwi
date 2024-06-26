@@ -4,8 +4,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/michimani/gotwi/fields"
-	"github.com/michimani/gotwi/internal/util"
+	"github.com/NHypocrite/gotwi/fields"
+	"github.com/NHypocrite/gotwi/internal/util"
 )
 
 type ListMaxResults int

@@ -3,8 +3,8 @@ package quotetweet
 import (
 	"context"
 
-	"github.com/michimani/gotwi"
-	"github.com/michimani/gotwi/tweet/quotetweet/types"
+	"github.com/NHypocrite/gotwi"
+	"github.com/NHypocrite/gotwi/tweet/quotetweet/types"
 )
 
 const (

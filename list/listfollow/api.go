@@ -3,8 +3,8 @@ package listfollow
 import (
 	"context"
 
-	"github.com/michimani/gotwi"
-	"github.com/michimani/gotwi/list/listfollow/types"
+	"github.com/NHypocrite/gotwi"
+	"github.com/NHypocrite/gotwi/list/listfollow/types"
 )
 
 const (

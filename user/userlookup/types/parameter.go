@@ -5,8 +5,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/michimani/gotwi/fields"
-	"github.com/michimani/gotwi/internal/util"
+	"github.com/NHypocrite/gotwi/fields"
+	"github.com/NHypocrite/gotwi/internal/util"
 )
 
 // ListInput is struct for requesting `GET /2/users`.

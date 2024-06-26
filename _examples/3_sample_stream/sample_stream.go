@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/michimani/gotwi"
-	"github.com/michimani/gotwi/tweet/volumestream"
-	"github.com/michimani/gotwi/tweet/volumestream/types"
+	"github.com/NHypocrite/gotwi"
+	"github.com/NHypocrite/gotwi/tweet/volumestream"
+	"github.com/NHypocrite/gotwi/tweet/volumestream/types"
 )
 
 func samplingTweets(c *gotwi.Client, count int) {

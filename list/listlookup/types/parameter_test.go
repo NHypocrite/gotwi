@@ -3,8 +3,8 @@ package types_test
 import (
 	"testing"
 
-	"github.com/michimani/gotwi/fields"
-	"github.com/michimani/gotwi/list/listlookup/types"
+	"github.com/NHypocrite/gotwi/fields"
+	"github.com/NHypocrite/gotwi/list/listlookup/types"
 	"github.com/stretchr/testify/assert"
 )
 

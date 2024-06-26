@@ -3,8 +3,8 @@ package types_test
 import (
 	"testing"
 
-	"github.com/michimani/gotwi/resources"
-	"github.com/michimani/gotwi/space/spacelookup/types"
+	"github.com/NHypocrite/gotwi/resources"
+	"github.com/NHypocrite/gotwi/space/spacelookup/types"
 	"github.com/stretchr/testify/assert"
 )
 

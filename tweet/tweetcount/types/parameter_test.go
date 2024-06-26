@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/michimani/gotwi/tweet/tweetcount/types"
+	"github.com/NHypocrite/gotwi/tweet/tweetcount/types"
 	"github.com/stretchr/testify/assert"
 )
 

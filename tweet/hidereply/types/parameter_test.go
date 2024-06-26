@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/michimani/gotwi/tweet/hidereply/types"
+	"github.com/NHypocrite/gotwi/tweet/hidereply/types"
 	"github.com/stretchr/testify/assert"
 )
 

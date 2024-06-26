@@ -1,4 +1,4 @@
-module github.com/michimani/gotwi
+module github.com/NHypocrite/gotwi
 
 go 1.21
 

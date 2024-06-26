@@ -5,9 +5,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/michimani/gotwi"
-	"github.com/michimani/gotwi/fields"
-	"github.com/michimani/gotwi/tweet/filteredstream/types"
+	"github.com/NHypocrite/gotwi"
+	"github.com/NHypocrite/gotwi/fields"
+	"github.com/NHypocrite/gotwi/tweet/filteredstream/types"
 	"github.com/stretchr/testify/assert"
 )
 

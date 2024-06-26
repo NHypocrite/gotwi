@@ -3,9 +3,9 @@ package types_test
 import (
 	"testing"
 
-	"github.com/michimani/gotwi"
-	"github.com/michimani/gotwi/resources"
-	"github.com/michimani/gotwi/tweet/like/types"
+	"github.com/NHypocrite/gotwi"
+	"github.com/NHypocrite/gotwi/resources"
+	"github.com/NHypocrite/gotwi/tweet/like/types"
 	"github.com/stretchr/testify/assert"
 )
 

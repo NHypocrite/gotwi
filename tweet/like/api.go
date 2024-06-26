@@ -3,8 +3,8 @@ package like
 import (
 	"context"
 
-	"github.com/michimani/gotwi"
-	"github.com/michimani/gotwi/tweet/like/types"
+	"github.com/NHypocrite/gotwi"
+	"github.com/NHypocrite/gotwi/tweet/like/types"
 )
 
 const (
@@ -51,7 +51,9 @@ func Create(ctx context.Context, c *gotwi.Client, p *types.CreateInput) (*types.
 
 // Allows a user or authenticated user ID to unlike a Tweet.
 // The request succeeds with no action when the user sends
-//  a request to a user they're not liking the Tweet or have already unliked the Tweet.
+//
+//	a request to a user they're not liking the Tweet or have already unliked the Tweet.
+//
 // https://developer.twitter.com/en/docs/twitter-api/tweets/likes/api-reference/delete-users-id-likes-tweet_id
 func Delete(ctx context.Context, c *gotwi.Client, p *types.DeleteInput) (*types.DeleteOutput, error) {
 	res := &types.DeleteOutput{}
